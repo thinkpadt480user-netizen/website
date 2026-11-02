@@ -487,3 +487,6 @@ address { font-style: normal; }
 }
 
 .galeria__rejilla .enfoque-carta { aspect-ratio: 3 / 4; object-position: 50% 0; }
+
+.carta__foto { display: block; max-width: 40rem; margin: 2.5rem auto 0; }
+.carta__foto img { display: block; width: 100%; height: auto; border-radius: 0.5rem; }
