@@ -485,3 +485,5 @@ address { font-style: normal; }
   .gorro, .punto { animation: none; }
   .boton { transition: none; }
 }
+
+.galeria__rejilla .enfoque-carta { aspect-ratio: 3 / 4; object-position: 50% 0; }
